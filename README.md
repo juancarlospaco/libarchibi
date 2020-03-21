@@ -2,7 +2,7 @@
 
 - `libarchive` at compile-time, LibArchive Chibi Edition.
 
-![](cat-with-crown.jpg)
+![](https://raw.githubusercontent.com/juancarlospaco/libarchibi/master/cat-with-crown.jpg)
 
 
 # Install
