@@ -1,6 +1,6 @@
 # LibarChibi
 
-- `libarchive` at compile-time, `extract()` & `compress()`, libArchive Chibi Edition.
+- `libarchive` at compile-time, `extract()` & `compress()`, libarchive Chibi Edition.
 
 ![](https://raw.githubusercontent.com/juancarlospaco/libarchibi/master/cat-with-crown.jpg)
 
