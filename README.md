@@ -13,3 +13,11 @@
 # Use
 
 - `nim doc libarchibi.nim`
+
+
+# Note
+
+You should be using these instead!
+
+- https://github.com/genotrance/nimarchive
+- https://github.com/nim-lang/zip#zip
